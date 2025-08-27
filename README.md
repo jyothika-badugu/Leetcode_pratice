@@ -9,6 +9,7 @@ Here I upload solutions that I practice every day to improve my problem-solving 
 
 - **Day 1 ✅** – Pow(x,n)
 - **Day 2 ✅** - Lengthof_lastword
+- **Day 2 ✅** - valid_parentheses
 
 ---
 
