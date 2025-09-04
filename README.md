@@ -11,7 +11,8 @@ Here I upload solutions that I practice every day to improve my problem-solving 
 - **Day 2 ✅** - Lengthof_lastword
 - **Day 3 ✅** - valid_parentheses
 - **Day 4 ✅** - type_of_triangle
-- **Day 4 ✅** - two_sum
+- **Day 5 ✅** - two_sum
+- **Day 6 ✅** - find_cloest_person
 
 ---
 
