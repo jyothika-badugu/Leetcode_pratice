@@ -14,6 +14,7 @@ Here I upload solutions that I practice every day to improve my problem-solving 
 - **Day 5 ✅** - two_sum
 - **Day 6 ✅** - find_cloest_person
 - **Day 7 ✅** - power_of_four
+- **Day 7 ✅** - valid_anagram
 
 ---
 
