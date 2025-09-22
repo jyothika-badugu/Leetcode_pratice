@@ -16,6 +16,7 @@ Here I upload solutions that I practice every day to improve my problem-solving 
 - **Day 7 ✅** - power_of_four
 - **Day 8 ✅** - valid_anagram
 - **Day 9 ✅** - vowel_gamein_string
+- **Day 10✅** - Count_ElementWith_Max_Freq
 
 ---
 
